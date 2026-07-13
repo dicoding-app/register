@@ -32,5 +32,5 @@ If you find any subdomains being abused or breaking our ToS, please report them 
 We are supported by Cloudflare's sponsorship program.
 
 <a href="https://www.cloudflare.com">
-   <img alt="Cloudflare Logo" src="https://raw.githubusercontent.com/capstones-tech/register/main/media/cloudflare.png" height="48">
+   <img alt="Cloudflare Logo" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/cloudflare.png" height="48">
 </a>

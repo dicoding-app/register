@@ -1,23 +1,23 @@
 # Terms of Service
-Welcome to **capstones.tech** ("our", "us", "we"), a free subdomain service provided to individuals. By using our service, you agree to the following Terms of Service ("Terms"). Please read them carefully.
+Welcome to **capstonedicoding.tech** ("our", "us", "we"), a free subdomain service provided to individuals. By using our service, you agree to the following Terms of Service ("Terms"). Please read them carefully.
 
-For questions or concerns about these Terms, please contact us at admin@capstones.tech.
+For questions or concerns about these Terms, please contact us at admin@capstonedicoding.tech.
 
 **Last Updated**: 13th July, 2026
 
 ## Definitions
 The following definitions apply within these Terms of Service:
-- **"Service"** refers to the capstones.tech subdomain registration service, website, infrastructure, GitHub repository, and related systems operated by capstones.tech.
+- **"Service"** refers to the capstonedicoding.tech subdomain registration service, website, infrastructure, GitHub repository, and related systems operated by capstonedicoding.tech.
 - **"User"**, **"you"**, and **"your"** refer to any individual using or accessing the service.
-- **"Subdomain"** refers to any subdomain registered under the `capstones.tech` domain.
-- **"Root subdomain"** refers to the primary registered subdomain itself, excluding any nested subdomains. For example, `example.capstones.tech` is a root subdomain, while `blog.example.capstones.tech` is a **"nested subdomain"**.
-- **"Content"** refers to any website, files, media, software, text, or other material hosted or served using an capstones.tech subdomain.
+- **"Subdomain"** refers to any subdomain registered under the `capstonedicoding.tech` domain.
+- **"Root subdomain"** refers to the primary registered subdomain itself, excluding any nested subdomains. For example, `example.capstonedicoding.tech` is a root subdomain, while `blog.example.capstonedicoding.tech` is a **"nested subdomain"**.
+- **"Content"** refers to any website, files, media, software, text, or other material hosted or served using an capstonedicoding.tech subdomain.
 
 ## 1. Acceptance of Terms
-By accessing or using capstones.tech, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you may not use the capstones.tech service.
+By accessing or using capstonedicoding.tech, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree, you may not use the capstonedicoding.tech service.
 
 ## 2. Eligibility
-To use capstones.tech, you must:
+To use capstonedicoding.tech, you must:
 
 1. Be at least 13 years old;
 2. Be an individual person, not an organisation, acting either on your own behalf or as a representative of a group or non-commercial project;
@@ -26,17 +26,17 @@ To use capstones.tech, you must:
 
 Subdomains must be registered to an individual GitHub account, and cannot be registered to a GitHub organisation account.
 
-By using capstones.tech, you represent and warrant that you meet these requirements.
+By using capstonedicoding.tech, you represent and warrant that you meet these requirements.
 
 ## 3. Service Description
-capstones.tech allows users to register a subdomain under the "capstones.tech" domain. This service is offered "as-is" without guarantees of uptime, support, or permanence.
+capstonedicoding.tech allows users to register a subdomain under the "capstonedicoding.tech" domain. This service is offered "as-is" without guarantees of uptime, support, or permanence.
 
 Subdomains are intended solely for individuals, software developer groups and non-commercial projects that are related to software development, as long as the project does not engage in activities or serve content that is prohibited by these Terms of Service.
 
 We reserve the right to deny any subdomain registration request for any reason.
 
 ## 4. Prohibited Activities
-You agree not to use, attempt to use, or permit others to use the capstones.tech service or any related infrastructure for any of the following purposes:
+You agree not to use, attempt to use, or permit others to use the capstonedicoding.tech service or any related infrastructure for any of the following purposes:
 
 1. Illegal activities
 2. Degrading the service's performance or availability
@@ -66,7 +66,7 @@ Violation of this section may result in immediate termination without notice.
 The use of AI for creating, designing, or modifying websites is acceptable as long as the website is complete and complies with the prohibited activities guidelines.
 
 ## 6. Ownership and Intellectual Property
-capstones.tech retains all rights, title, and interest in the "capstones.tech" domain and associated systems.
+capstonedicoding.tech retains all rights, title, and interest in the "capstonedicoding.tech" domain and associated systems.
 
 You retain ownership of any content you host on your subdomain. Your hosted content, however, must not infringe on third-party rights.
 
@@ -78,17 +78,17 @@ We reserve the right to terminate your subdomain at any time, for any reason. Wh
 Any donations made to the service are non-refundable.
 
 ## 8. Privacy
-We collect and process only the personal data strictly necessary to operate capstones.tech. We do not sell or share your data with third parties for marketing purposes. While we take reasonable precautions, we are not responsible for any data or privacy breaches resulting from the use of our service.
+We collect and process only the personal data strictly necessary to operate capstonedicoding.tech. We do not sell or share your data with third parties for marketing purposes. While we take reasonable precautions, we are not responsible for any data or privacy breaches resulting from the use of our service.
 
-For privacy-related inquiries, please contact us at admin@capstones.tech.
+For privacy-related inquiries, please contact us at admin@capstonedicoding.tech.
 
 ## 9. Disclaimer and Limitation of Liability
-The capstones.tech service is provided "as-is" and "as available." We make no warranties, expressed or implied, regarding the service's functionality, reliability, or suitability for any particular purpose.
+The capstonedicoding.tech service is provided "as-is" and "as available." We make no warranties, expressed or implied, regarding the service's functionality, reliability, or suitability for any particular purpose.
 
 You use the service at your own risk.
 
 ## 10. Indemnification
-You agree to indemnify and hold harmless capstones.tech, its operators, and affiliates from any claims, losses, liabilities, or expenses arising from your use of the service or violation of these Terms.
+You agree to indemnify and hold harmless capstonedicoding.tech, its operators, and affiliates from any claims, losses, liabilities, or expenses arising from your use of the service or violation of these Terms.
 
 ## 11. Governing Law and Jurisdiction
 These Terms are governed by the laws of Indonesia. Any disputes arising out of or relating to these Terms will be subject to the exclusive jurisdiction of the courts of Indonesia.

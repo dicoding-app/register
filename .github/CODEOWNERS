@@ -1,7 +1,7 @@
-* @capstones-tech/maintainers
+* @dicoding-app/maintainers
 
-/domains/ @capstones-tech/maintainers
+/domains/ @dicoding-app/maintainers
 
-*.md @capstones-tech/team
-TERMS_OF_SERVICE.md @capstones-tech/maintainers
-/util/reserved.json @capstones-tech/team
+*.md @dicoding-app/team
+TERMS_OF_SERVICE.md @dicoding-app/maintainers
+/util/reserved.json @dicoding-app/team

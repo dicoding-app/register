@@ -6,7 +6,7 @@ YOU MUST FILL OUT THIS TEMPLATE FOR YOUR PR TO BE ACCEPTED!
 <!-- Your domain MUST pass ALL the requirements below, otherwise it WILL BE DENIED. -->
 <!-- Change each checkbox to [x] (all lowercase, with no spaces between the brackets) to mark it as completed. -->
 
-- [ ] I **agree** to the [Terms of Service](https://capstones.tech/terms). <!-- Your request MUST follow the TOS to be approved. -->
+- [ ] I **agree** to the [Terms of Service](https://capstonedicoding.tech/terms). <!-- Your request MUST follow the TOS to be approved. -->
 - [ ] My file is following the domain structure. <!-- Your JSON file is in the domains directory, the name is valid, etc. -->
 - [ ] My website is **reachable** and **completed**. <!-- We do not permit simple "Hello, world!" or simply copied template websites with minimal changes. -->
 - [ ] My website is **software development** related. <!-- Only your root subdomain needs to meet this requirement. -->

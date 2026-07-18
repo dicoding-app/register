@@ -1,7 +1,7 @@
-# GitHub Copilot Instructions for capstones-tech/register
+# GitHub Copilot Instructions for dicoding-app/register
 
 ## Repository Purpose
-This repository handles pull requests that register new `.capstones.tech` subdomains. Every PR adds or modifies **only** JSON files in the `domains/` directory. These files define DNS records.
+This repository handles pull requests that register new `.capstonedicoding.tech` subdomains. Every PR adds or modifies **only** JSON files in the `domains/` directory. These files define DNS records.
 
 Copilot must review **every PR** with these priorities:
 1. The PR description **must** exactly match and fully complete the `.github/PULL_REQUEST_TEMPLATE.md`

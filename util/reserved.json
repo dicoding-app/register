@@ -54,7 +54,7 @@
     "info",
     "int",
     "internal",
-    "is-a",
+    "amat",
     "dicoding-app",
     "dicodingapp",
     "link",
@@ -147,5 +147,7 @@
     "your-domain",
     "your-domain-name",
     "your-subdomain",
-    "zone"
+    "zone",
+    "short",
+    "shorturl"
 ]
